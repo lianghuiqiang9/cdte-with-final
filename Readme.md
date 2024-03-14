@@ -34,4 +34,4 @@ g++ -o cdte cdte.cpp src/utils.cpp src/node.cpp -O3 -I./include -I final final/l
 
 ./cdte
 
-#The FINAL library used here, because there is addition, which can reduce a lot of operations.
+# The FINAL library used here, because there is addition, which can reduce a lot of operations.
